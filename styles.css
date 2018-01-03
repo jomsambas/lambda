@@ -435,6 +435,7 @@ main .ingredients {
   padding: 70px 0;
   background-repeat: no-repeat;
   background-position: top center;
+  background-attachment: fixed;
 }
 main .ingredients .right-50 {
   float: right;
@@ -628,6 +629,7 @@ main .reviews {
   padding: 70px 0;
   background-repeat: no-repeat;
   background-position: top center;
+  background-attachment: fixed;
 }
 main .reviews .black-overlay {
   background-color: rgba(0, 0, 0, 0.7);
